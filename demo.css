@@ -1,0 +1,23 @@
+.bgimg {
+	background-image: url('https://png.pngtree.com/background/20210710/original/pngtree-cartoon-fresh-colored-childrens-day-background-picture-image_977665.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.head1 {
+	font-family: 'MoonDance', cursive;
+	font-size: 60px;
+	color: blue;
+	height: 60px;
+}
+.cartoonname {
+	font-family: 'MoonDance', cursive;
+	color: orange;
+}
+.layoutcard2 {
+	background-color: white;
+	border-radius:8px;
+	margin:10px;
+}
+.cartoonpara {
+	color: darkgrey;
+}
